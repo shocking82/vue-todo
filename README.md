@@ -9,7 +9,6 @@ intellij tool vue 프로젝트 선택
 ```
 TodoHeader: 타이틀
 TodoInput: 텍스트 입력 및 로컬 스토리지 저장
-aaa
 ```
 
 ### Customize configuration
