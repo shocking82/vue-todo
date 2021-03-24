@@ -2,22 +2,14 @@
 
 ## Project setup
 ```
-npm install
+intellij tool vue 프로젝트 선택
 ```
 
-### Compiles and hot-reloads for development
+### Project Structure
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+TodoHeader: 타이틀
+TodoInput: 텍스트 입력 및 로컬 스토리지 저장
+aaa
 ```
 
 ### Customize configuration
